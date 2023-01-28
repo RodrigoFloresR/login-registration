@@ -4,4 +4,5 @@ User login-registration project
 * Spring Security
 * Java Mail
 * Email verification with expiry
-* Spring Boot
+* PostgreSQL
+* Spring Data JPA
